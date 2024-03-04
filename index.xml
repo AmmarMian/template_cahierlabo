@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Projet
+</title>
+    <link>/</link>
+    <description>Recent content in Home on Projet
+</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 09:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ressources au laboratoire</title>
+      <link>/ressources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ressources/</guid>
+      <description>&lt;p&gt;Liste de ressources utiles au laboratoire LISTIC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bibliographie et graphes</title>
+      <link>/example_bib_chart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/example_bib_chart/</guid>
+      <description>&lt;p&gt;Un exemple avec de la bibliographie et des graphes avec chart.js.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Déployer le cahier sur le serveur du laboratoire</title>
+      <link>/deployer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/deployer/</guid>
+      <description>&lt;p&gt;Informations sur le déploiement du cahier sur le serveur du laboratoire une fois généré en local.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guide pour ajouter du contenu</title>
+      <link>/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/</guid>
+      <description>&lt;p&gt;Dans cette page, nous montrons comment sont organisés les fichiers relatifs à ce site web et comment ajouter de nouveau contenus et regénérer le site web.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quelques notes de calculs</title>
+      <link>/calcul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/calcul/</guid>
+      <description>&lt;p&gt;Exemple de page détaillant des calculs mathématiques.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/shortcodes/</guid>
+      <description>&lt;p&gt;Description des shortcodes disponibles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un exemple de simulation numérique</title>
+      <link>/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/simulation/</guid>
+      <description>&lt;p&gt;Exemple de page détaillant un plan de simulation numérique et présentant les résultats associés.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
